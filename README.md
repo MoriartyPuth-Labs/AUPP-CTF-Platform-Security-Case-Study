@@ -490,16 +490,21 @@ The primary risk is **architectural**: security is concentrated in a single exte
 
 ---
 
-## 👤 Author
-
 <div align="center">
 
-**Eav Puthcambo**
-<br/>
-AUPP Cybersecurity Programme
-<br/>
-American University of Phnom Penh
+## 👤 Author
 
-[![GitHub](https://img.shields.io/badge/GitHub-MoriartyPuth--Labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoriartyPuth-Labs)
+**MoriartyPuth** — Offensive Security
+
+![GitHub](https://img.shields.io/badge/GitHub-MoriartyPuth-181717?logo=github)
 
 </div>
+
+> ⚠️ **Disclaimer.** _This document is a sanitised portfolio artefact produced from an
+> authorised penetration test. All identifying data has been redacted or replaced with
+> documentation-reserved placeholders. It contains no client data, no live targets and no
+> novel exploit code. Techniques shown are standard, publicly documented, and provided for
+> educational and defensive purposes only. Do not test any system you do not own or lack
+> explicit written authorisation to assess._
+
+---
